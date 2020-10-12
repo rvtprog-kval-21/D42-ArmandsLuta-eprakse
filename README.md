@@ -44,4 +44,4 @@ power platforma power platforma ir microsoft produkts ar mērķi dot iespēju ve
 * https://www.agarwalritika.com/post/filter-subgrid-on-entity-form-power-apps-portals - ņēmu pamatu javascript/jquery filtrēšanai
 
 ## uzstādīšanas instrukcijas
-//to do
+//TODO
