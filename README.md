@@ -1,4 +1,4 @@
-# d41-KristapsDruva-eprakse
+# D42-ArmandsLuta-eprakse
 Elektroniskā prakses dienasgrāmata 
 ## Projekta apraksts
 Šis projekts ļaus, pāriet no parastajām prakses grāmatiņām uz web aplikāciju/mājaslapu kur varēs skolas pieteikties, izveidot prakses notikumus, ievadīt savus datus datubāzē, Savienot ievadītos praktikantus ar izveidotiem prakses notikumiem. Praktikantas varēs apskatīties visas savas prakses - ierakstīt aktīvajās praksēs dienasgrāmatas ierakstus.
@@ -23,7 +23,7 @@ power platforma ir microsoft produkts ar mērķi dot iespēju veidot aplikācija
     * xml
 
 Lai menedžētu uzdevumus kurus jaizpilda, un to statusus, kā arī dokumentācijas rakstīšana web aplikācijai tiek izmantots "Azure DevOps".
-Ar azure DevOps palīdzību tiek saglabāts projekta source kods, tiek veikti automatizēti testi, izdoti uzdevumi starp mani un Armandu, kas strādā ar mani kopā šajā projektā.
+Ar azure DevOps palīdzību tiek saglabāts projekta source kods, tiek veikti automatizēti testi, izdoti uzdevumi starp mani un Kristapu, kas strādā ar mani kopā šajā projektā.
 * azure
   * YAML (Deployment automatizācija)
 
@@ -35,7 +35,6 @@ Testus un testa kodus var redzēt mapē "automatization".
 ## izmantotie avoti
   * https://learn.microsoft.com - mācījos power platformas rīkus
   * https://www.agarwalritika.com/post/filter-subgrid-on-entity-form-power-apps-portals - ņēmu pamatu javascript/jquery filtrēšanai
-  * https://powerusers.microsoft.com/t5/Forums/ct-p/PA_Comm_Forums - jautāju dažādus jautājumus, zem aliases KD203
 
 
 ## uzstādīšanas instrukcijas
