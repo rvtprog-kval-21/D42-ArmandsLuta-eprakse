@@ -1,0 +1,593 @@
+<ImportExportXml version="9.2.20123.143" SolutionPackageVersion="9.2" languagecode="1033" generatedBy="CrmLive" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SolutionManifest>
+    <UniqueName>eprakse</UniqueName>
+    <LocalizedNames>
+      <LocalizedName description="eprakse" languagecode="1033" />
+    </LocalizedNames>
+    <Descriptions />
+    <Version>1.0.0.1</Version>
+    <Managed>0</Managed>
+    <Publisher>
+      <UniqueName>DefaultPublisherorgd952eb53</UniqueName>
+      <LocalizedNames>
+        <LocalizedName description="Hortus Digital" languagecode="1033" />
+      </LocalizedNames>
+      <Descriptions>
+        <Description description="Default publisher for this organization" languagecode="1033" />
+      </Descriptions>
+      <EMailAddress xsi:nil="true"></EMailAddress>
+      <SupportingWebsiteUrl xsi:nil="true"></SupportingWebsiteUrl>
+      <CustomizationPrefix>hd</CustomizationPrefix>
+      <CustomizationOptionValuePrefix>89918</CustomizationOptionValuePrefix>
+      <Addresses>
+        <Address>
+          <AddressNumber>1</AddressNumber>
+          <AddressTypeCode xsi:nil="true"></AddressTypeCode>
+          <City xsi:nil="true"></City>
+          <County xsi:nil="true"></County>
+          <Country xsi:nil="true"></Country>
+          <Fax xsi:nil="true"></Fax>
+          <FreightTermsCode xsi:nil="true"></FreightTermsCode>
+          <ImportSequenceNumber xsi:nil="true"></ImportSequenceNumber>
+          <Latitude xsi:nil="true"></Latitude>
+          <Line1 xsi:nil="true"></Line1>
+          <Line2 xsi:nil="true"></Line2>
+          <Line3 xsi:nil="true"></Line3>
+          <Longitude xsi:nil="true"></Longitude>
+          <Name xsi:nil="true"></Name>
+          <PostalCode xsi:nil="true"></PostalCode>
+          <PostOfficeBox xsi:nil="true"></PostOfficeBox>
+          <PrimaryContactName xsi:nil="true"></PrimaryContactName>
+          <ShippingMethodCode xsi:nil="true"></ShippingMethodCode>
+          <StateOrProvince xsi:nil="true"></StateOrProvince>
+          <Telephone1 xsi:nil="true"></Telephone1>
+          <Telephone2 xsi:nil="true"></Telephone2>
+          <Telephone3 xsi:nil="true"></Telephone3>
+          <TimeZoneRuleVersionNumber xsi:nil="true"></TimeZoneRuleVersionNumber>
+          <UPSZone xsi:nil="true"></UPSZone>
+          <UTCOffset xsi:nil="true"></UTCOffset>
+          <UTCConversionTimeZoneCode xsi:nil="true"></UTCConversionTimeZoneCode>
+        </Address>
+        <Address>
+          <AddressNumber>2</AddressNumber>
+          <AddressTypeCode xsi:nil="true"></AddressTypeCode>
+          <City xsi:nil="true"></City>
+          <County xsi:nil="true"></County>
+          <Country xsi:nil="true"></Country>
+          <Fax xsi:nil="true"></Fax>
+          <FreightTermsCode xsi:nil="true"></FreightTermsCode>
+          <ImportSequenceNumber xsi:nil="true"></ImportSequenceNumber>
+          <Latitude xsi:nil="true"></Latitude>
+          <Line1 xsi:nil="true"></Line1>
+          <Line2 xsi:nil="true"></Line2>
+          <Line3 xsi:nil="true"></Line3>
+          <Longitude xsi:nil="true"></Longitude>
+          <Name xsi:nil="true"></Name>
+          <PostalCode xsi:nil="true"></PostalCode>
+          <PostOfficeBox xsi:nil="true"></PostOfficeBox>
+          <PrimaryContactName xsi:nil="true"></PrimaryContactName>
+          <ShippingMethodCode xsi:nil="true"></ShippingMethodCode>
+          <StateOrProvince xsi:nil="true"></StateOrProvince>
+          <Telephone1 xsi:nil="true"></Telephone1>
+          <Telephone2 xsi:nil="true"></Telephone2>
+          <Telephone3 xsi:nil="true"></Telephone3>
+          <TimeZoneRuleVersionNumber xsi:nil="true"></TimeZoneRuleVersionNumber>
+          <UPSZone xsi:nil="true"></UPSZone>
+          <UTCOffset xsi:nil="true"></UTCOffset>
+          <UTCConversionTimeZoneCode xsi:nil="true"></UTCConversionTimeZoneCode>
+        </Address>
+      </Addresses>
+    </Publisher>
+    <RootComponents>
+      <RootComponent type="1" schemaName="account" behavior="0" />
+      <RootComponent type="1" schemaName="contact" behavior="0" />
+      <RootComponent type="1" schemaName="cr36b_activityfeed" behavior="0" />
+      <RootComponent type="1" schemaName="cr36b_bufferonlyoneexcel" behavior="0" />
+      <RootComponent type="1" schemaName="cr36b_bufferpraksesprogramma" behavior="0" />
+      <RootComponent type="1" schemaName="cr36b_dienasgramatsieraksti" behavior="0" />
+      <RootComponent type="1" schemaName="cr36b_grupas" behavior="0" />
+      <RootComponent type="1" schemaName="cr36b_pieteiktssavienosanai" behavior="0" />
+      <RootComponent type="1" schemaName="cr36b_pieteikusasskolas" behavior="0" />
+      <RootComponent type="1" schemaName="cr36b_pieteikusieuznemumi" behavior="0" />
+      <RootComponent type="1" schemaName="cr36b_praksesnotikums" behavior="0" />
+      <RootComponent type="1" schemaName="cr36b_praksesvaditajiskola" behavior="0" />
+      <RootComponent type="1" schemaName="cr36b_praksesvaditajsuznemuma" behavior="0" />
+      <RootComponent type="1" schemaName="cr36b_praksesvietuskaits" behavior="0" />
+      <RootComponent type="1" schemaName="cr36b_profesijas" behavior="0" />
+      <RootComponent type="1" schemaName="cr36b_skolas" behavior="0" />
+      <RootComponent type="1" schemaName="cr36b_skolasprofesijasdienasplans" behavior="0" />
+      <RootComponent type="1" schemaName="cr36b_skolniekaprakse" behavior="0" />
+      <RootComponent type="1" schemaName="cr36b_skolniekastundas" behavior="0" />
+      <RootComponent type="1" schemaName="cr36b_skolnieks" behavior="0" />
+      <RootComponent type="1" schemaName="cr36b_uznemumi" behavior="0" />
+      <RootComponent type="1" schemaName="crc06_augsprofesijas" behavior="0" />
+      <RootComponent type="1" schemaName="crc06_novadi" behavior="0" />
+      <RootComponent type="1" schemaName="crc06_pilsetas" behavior="0" />
+      <RootComponent type="1" schemaName="crc06_praktikantapieteikumi" behavior="0" />
+      <RootComponent type="1" schemaName="hd_praksesprogramma" behavior="0" />
+      <RootComponent type="1" schemaName="hd_praksesprogrammaspunkti" behavior="0" />
+      <RootComponent type="9" schemaName="cr36b_praksespiekrisana" behavior="0" />
+      <RootComponent type="9" schemaName="crc06_atsauksmestips" behavior="0" />
+      <RootComponent type="9" schemaName="crc06_uznemumatips" behavior="0" />
+      <RootComponent type="9" schemaName="hd_praksestipi" behavior="0" />
+      <RootComponent type="29" id="{193b7078-0603-eb11-a813-000d3ab8cd41}" behavior="0" />
+      <RootComponent type="29" id="{1a3b7078-0603-eb11-a813-000d3ab8cd41}" behavior="0" />
+      <RootComponent type="29" id="{1f9a68f2-372e-eb11-a813-002248993dcd}" behavior="0" />
+      <RootComponent type="29" id="{2425968a-7935-eb11-a813-000d3ab7cb08}" behavior="0" />
+      <RootComponent type="29" id="{2933aa8f-2883-4701-9c0f-da81f70c1354}" behavior="0" />
+      <RootComponent type="29" id="{351bca2c-ea0e-eb11-a813-000d3ab8cd41}" behavior="0" />
+      <RootComponent type="29" id="{3f1c935a-2b20-eb11-a813-002248993dcd}" behavior="0" />
+      <RootComponent type="29" id="{3fa907e6-9751-4b24-9968-5ad7e1f23ae9}" behavior="0" />
+      <RootComponent type="29" id="{405e9e52-9a31-4214-be30-d2bdbc48c7f5}" behavior="0" />
+      <RootComponent type="29" id="{43cc342b-6a01-eb11-a813-000d3ab8cd41}" behavior="0" />
+      <RootComponent type="29" id="{45b19ad0-5286-4acf-990a-0cf4834ddcee}" behavior="0" />
+      <RootComponent type="29" id="{4be608d2-eb0e-eb11-a813-000d3ab8cd41}" behavior="0" />
+      <RootComponent type="29" id="{63bde687-2620-40ea-a718-38aedfac940a}" behavior="0" />
+      <RootComponent type="29" id="{67e0da2a-bd30-eb11-a813-002248993dcd}" behavior="0" />
+      <RootComponent type="29" id="{688d72cf-50b3-4b92-b9ed-959534ed1754}" behavior="0" />
+      <RootComponent type="29" id="{69a62fb0-6dab-454b-82bd-7315849500b9}" behavior="0" />
+      <RootComponent type="29" id="{7d18cc22-ff90-4da2-9b1b-a9929c3553af}" behavior="0" />
+      <RootComponent type="29" id="{8f2d1e43-30b5-4a19-b3dc-f4f80eeacfab}" behavior="0" />
+      <RootComponent type="29" id="{93162448-8534-eb11-a813-002248993dcd}" behavior="0" />
+      <RootComponent type="29" id="{943419ba-0419-eb11-a813-000d3ab8cd41}" behavior="0" />
+      <RootComponent type="29" id="{98eb1a71-1203-eb11-a813-000d3ab8cd41}" behavior="0" />
+      <RootComponent type="29" id="{9a1e8215-74fe-ea11-a813-000d3ab8cd41}" behavior="0" />
+      <RootComponent type="29" id="{9b1e8215-74fe-ea11-a813-000d3ab8cd41}" behavior="0" />
+      <RootComponent type="29" id="{9d1e8215-74fe-ea11-a813-000d3ab8cd41}" behavior="0" />
+      <RootComponent type="29" id="{9e1e8215-74fe-ea11-a813-000d3ab8cd41}" behavior="0" />
+      <RootComponent type="29" id="{9f1e8215-74fe-ea11-a813-000d3ab8cd41}" behavior="0" />
+      <RootComponent type="29" id="{a01e8215-74fe-ea11-a813-000d3ab8cd41}" behavior="0" />
+      <RootComponent type="29" id="{a332acc7-26f1-4ae4-8e99-f3d24a63c3b9}" behavior="0" />
+      <RootComponent type="29" id="{ac5961cc-e70e-eb11-a813-000d3ab8cd41}" behavior="0" />
+      <RootComponent type="29" id="{afd07371-72f6-ea11-a815-000d3ab8cd41}" behavior="0" />
+      <RootComponent type="29" id="{b0d07371-72f6-ea11-a815-000d3ab8cd41}" behavior="0" />
+      <RootComponent type="29" id="{b1d07371-72f6-ea11-a815-000d3ab8cd41}" behavior="0" />
+      <RootComponent type="29" id="{ba3db02e-4f18-eb11-a813-000d3ab8cd41}" behavior="0" />
+      <RootComponent type="29" id="{c2857b63-8fa7-473d-8e2f-112c232cebd8}" behavior="0" />
+      <RootComponent type="29" id="{c3c1c600-132f-eb11-a813-000d3ab7cb08}" behavior="0" />
+      <RootComponent type="29" id="{c432a970-1819-eb11-a813-000d3ab8cd41}" behavior="0" />
+      <RootComponent type="29" id="{cc28f20d-009a-437e-9b4d-ff48eb3c8a8a}" behavior="0" />
+      <RootComponent type="29" id="{d01f453b-4e23-eb11-a813-002248993dcd}" behavior="0" />
+      <RootComponent type="29" id="{d162384e-9922-eb11-a813-000d3ab7cb08}" behavior="0" />
+      <RootComponent type="29" id="{d66acc8a-6fb2-4dd7-bf2c-78c0e23e9de5}" behavior="0" />
+      <RootComponent type="29" id="{e139a149-0819-eb11-a813-000d3ab8cd41}" behavior="0" />
+      <RootComponent type="29" id="{e39322ea-3b1f-eb11-a813-000d3ab7cb08}" behavior="0" />
+      <RootComponent type="29" id="{ee3dc940-230a-eb11-a813-000d3ab8cd41}" behavior="0" />
+      <RootComponent type="29" id="{fc497058-c203-eb11-a813-000d3ab8cd41}" behavior="0" />
+    </RootComponents>
+    <MissingDependencies>
+      <MissingDependency>
+        <Required key="0" type="1" schemaName="adx_pollsubmission" displayName="Poll Submission" solution="MicrosoftPortalBase (9.2.2006.10)" />
+        <Dependent key="1" type="1" schemaName="contact" displayName="Contact" />
+      </MissingDependency>
+      <MissingDependency>
+        <Required key="2" type="1" schemaName="adx_bpf_c2857b638fa7473d8e2f112c232cebd8" displayName="Change Password for Portals Contact" solution="MicrosoftIdentity (9.2.2006.0)" />
+        <Dependent key="1" type="1" schemaName="contact" displayName="Contact" />
+      </MissingDependency>
+      <MissingDependency>
+        <Required key="3" type="1" schemaName="crc06_atsauksmes" displayName="atsauksmes" solution="Active" />
+        <Dependent key="1" type="1" schemaName="contact" displayName="Contact" />
+      </MissingDependency>
+      <MissingDependency>
+        <Required key="4" type="1" schemaName="adx_webpage" displayName="Web Page" solution="MicrosoftPortalDependencies (9.2.10.0)" />
+        <Dependent key="1" type="1" schemaName="contact" displayName="Contact" />
+      </MissingDependency>
+      <MissingDependency>
+        <Required key="5" type="1" schemaName="adx_invitation" displayName="Invitation" solution="MicrosoftPortalBase (9.2.2006.10)" />
+        <Dependent key="1" type="1" schemaName="contact" displayName="Contact" />
+      </MissingDependency>
+      <MissingDependency>
+        <Required key="6" type="1" schemaName="adx_webpagehistory" displayName="Web Page History" solution="MicrosoftPortalBase (9.2.2006.10)" />
+        <Dependent key="1" type="1" schemaName="contact" displayName="Contact" />
+      </MissingDependency>
+      <MissingDependency>
+        <Required key="7" type="1" schemaName="adx_webformsession" displayName="Web Form Session" solution="MicrosoftPortalWebForms (9.2.2006.0)" />
+        <Dependent key="1" type="1" schemaName="contact" displayName="Contact" />
+      </MissingDependency>
+      <MissingDependency>
+        <Required key="8" type="1" schemaName="adx_pagenotification" displayName="Page Notification" solution="MicrosoftPortalBase (9.2.2006.10)" />
+        <Dependent key="1" type="1" schemaName="contact" displayName="Contact" />
+      </MissingDependency>
+      <MissingDependency>
+        <Required key="9" type="1" schemaName="adx_webpagelog" displayName="Web Page Log" solution="MicrosoftPortalBase (9.2.2006.10)" />
+        <Dependent key="1" type="1" schemaName="contact" displayName="Contact" />
+      </MissingDependency>
+      <MissingDependency>
+        <Required key="10" type="1" schemaName="adx_externalidentity" displayName="External Identity" solution="MicrosoftIdentity (9.2.2006.0)" />
+        <Dependent key="1" type="1" schemaName="contact" displayName="Contact" />
+      </MissingDependency>
+      <MissingDependency>
+        <Required key="11" type="1" schemaName="adx_webfilelog" displayName="Web File Log" solution="MicrosoftPortalBase (9.2.2006.10)" />
+        <Dependent key="1" type="1" schemaName="contact" displayName="Contact" />
+      </MissingDependency>
+      <MissingDependency>
+        <Required key="12" type="1" schemaName="adx_pagealert" displayName="Page Alert" solution="MicrosoftPortalBase (9.2.2006.10)" />
+        <Dependent key="1" type="1" schemaName="contact" displayName="Contact" />
+      </MissingDependency>
+      <MissingDependency>
+        <Required key="13" type="1" schemaName="cr36b_specialitate" displayName="Specialitāte" solution="Active" />
+        <Dependent key="14" type="1" schemaName="cr36b_uznemumi" displayName="Uzņemumi" />
+      </MissingDependency>
+      <MissingDependency>
+        <Required key="5" type="1" schemaName="adx_invitation" displayName="Invitation" solution="MicrosoftPortalBase (9.2.2006.10)" />
+        <Dependent key="15" type="1" schemaName="account" displayName="Account" />
+      </MissingDependency>
+      <MissingDependency>
+        <Required key="13" type="1" schemaName="cr36b_specialitate" displayName="Specialitāte" solution="Active" />
+        <Dependent key="15" type="1" schemaName="account" displayName="Account" />
+      </MissingDependency>
+      <MissingDependency>
+        <Required key="16" type="1" schemaName="adx_portallanguage" displayName="Portal Language" solution="MicrosoftPortalBase (9.2.2006.10)" />
+        <Dependent key="17" type="10" schemaName="adx_portallanguage_contact" displayName="adx_portallanguage_contact" parentSchemaName="adx_portallanguage" parentDisplayName="Portal Language" />
+      </MissingDependency>
+      <MissingDependency>
+        <Required key="18" type="2" schemaName="adx_name" displayName="Name" parentSchemaName="adx_portallanguage" parentDisplayName="Portal Language" solution="MicrosoftPortalBase (9.2.2006.10)" />
+        <Dependent key="17" type="10" schemaName="adx_portallanguage_contact" displayName="adx_portallanguage_contact" parentSchemaName="adx_portallanguage" parentDisplayName="Portal Language" />
+      </MissingDependency>
+      <MissingDependency>
+        <Required key="19" type="2" schemaName="adx_portallanguageid" displayName="Portal Language" parentSchemaName="adx_portallanguage" parentDisplayName="Portal Language" solution="MicrosoftPortalBase (9.2.2006.10)" />
+        <Dependent key="17" type="10" schemaName="adx_portallanguage_contact" displayName="adx_portallanguage_contact" parentSchemaName="adx_portallanguage" parentDisplayName="Portal Language" />
+      </MissingDependency>
+      <MissingDependency>
+        <Required key="20" type="2" schemaName="adx_preferredlanguageid" displayName="Preferred Language" parentSchemaName="contact" parentDisplayName="Contact" solution="MicrosoftPortalBase (9.2.2006.10)" />
+        <Dependent key="17" type="10" schemaName="adx_portallanguage_contact" displayName="adx_portallanguage_contact" parentSchemaName="adx_portallanguage" parentDisplayName="Portal Language" />
+      </MissingDependency>
+      <MissingDependency>
+        <Required key="17" type="10" schemaName="adx_portallanguage_contact" displayName="adx_portallanguage_contact" parentSchemaName="adx_portallanguage" parentDisplayName="Portal Language" solution="MicrosoftPortalBase (9.2.2006.10)" />
+        <Dependent key="17" type="10" schemaName="adx_portallanguage_contact" displayName="adx_portallanguage_contact" parentSchemaName="adx_portallanguage" parentDisplayName="Portal Language" />
+      </MissingDependency>
+      <MissingDependency>
+        <Required key="13" type="1" schemaName="cr36b_specialitate" displayName="Specialitāte" solution="Active" />
+        <Dependent key="21" type="10" schemaName="cr36b_PraksesVietuSkaits_cr36b_Specialita" displayName="cr36b_PraksesVietuSkaits_cr36b_Specialita" parentSchemaName="cr36b_specialitate" parentDisplayName="Specialitāte" />
+      </MissingDependency>
+      <MissingDependency>
+        <Required key="22" type="2" schemaName="cr36b_specialitateid" displayName="Specialitāte" parentSchemaName="cr36b_specialitate" parentDisplayName="Specialitāte" solution="Active" />
+        <Dependent key="21" type="10" schemaName="cr36b_PraksesVietuSkaits_cr36b_Specialita" displayName="cr36b_PraksesVietuSkaits_cr36b_Specialita" parentSchemaName="cr36b_specialitate" parentDisplayName="Specialitāte" />
+      </MissingDependency>
+      <MissingDependency>
+        <Required key="23" type="2" schemaName="cr36b_nosaukums" displayName="Nosaukums" parentSchemaName="cr36b_specialitate" parentDisplayName="Specialitāte" solution="Active" />
+        <Dependent key="21" type="10" schemaName="cr36b_PraksesVietuSkaits_cr36b_Specialita" displayName="cr36b_PraksesVietuSkaits_cr36b_Specialita" parentSchemaName="cr36b_specialitate" parentDisplayName="Specialitāte" />
+      </MissingDependency>
+      <MissingDependency>
+        <Required key="24" type="2" schemaName="msa_managingpartnerid" displayName="Managing Partner" parentSchemaName="account" parentDisplayName="Account" solution="MicrosoftPortalDependencies (9.2.10.0)" />
+        <Dependent key="25" type="10" schemaName="msa_account_managingpartner" displayName="msa_account_managingpartner" parentSchemaName="account" parentDisplayName="Account" />
+      </MissingDependency>
+      <MissingDependency>
+        <Required key="25" type="10" schemaName="msa_account_managingpartner" displayName="msa_account_managingpartner" parentSchemaName="account" parentDisplayName="Account" solution="MicrosoftPortalDependencies (9.2.10.0)" />
+        <Dependent key="25" type="10" schemaName="msa_account_managingpartner" displayName="msa_account_managingpartner" parentSchemaName="account" parentDisplayName="Account" />
+      </MissingDependency>
+      <MissingDependency>
+        <Required key="26" type="10" schemaName="adx_invitation_invitecontacts" displayName="adx_invitation_invitecontacts" parentSchemaName="adx_invitation" parentDisplayName="Invitation" solution="MicrosoftPortalBase (9.2.2006.10)" />
+        <Dependent key="26" type="10" schemaName="adx_invitation_invitecontacts" displayName="adx_invitation_invitecontacts" parentSchemaName="adx_invitation" parentDisplayName="Invitation" />
+      </MissingDependency>
+      <MissingDependency>
+        <Required key="27" type="10" schemaName="adx_invitation_redeemedcontacts" displayName="adx_invitation_redeemedcontacts" parentSchemaName="adx_invitation" parentDisplayName="Invitation" solution="MicrosoftPortalBase (9.2.2006.10)" />
+        <Dependent key="27" type="10" schemaName="adx_invitation_redeemedcontacts" displayName="adx_invitation_redeemedcontacts" parentSchemaName="adx_invitation" parentDisplayName="Invitation" />
+      </MissingDependency>
+      <MissingDependency>
+        <Required key="28" type="10" schemaName="msa_contact_managingpartner" displayName="msa_contact_managingpartner" parentSchemaName="account" parentDisplayName="Account" solution="MicrosoftPortalDependencies (9.2.10.0)" />
+        <Dependent key="28" type="10" schemaName="msa_contact_managingpartner" displayName="msa_contact_managingpartner" parentSchemaName="account" parentDisplayName="Account" />
+      </MissingDependency>
+      <MissingDependency>
+        <Required key="29" type="10" schemaName="adx_webrole_account" displayName="adx_webrole_account" parentSchemaName="adx_webrole" parentDisplayName="Web Role" solution="MicrosoftPortalBase (9.2.2006.10)" />
+        <Dependent key="29" type="10" schemaName="adx_webrole_account" displayName="adx_webrole_account" parentSchemaName="adx_webrole" parentDisplayName="Web Role" />
+      </MissingDependency>
+      <MissingDependency>
+        <Required key="30" type="10" schemaName="adx_website_sponsor" displayName="adx_website_sponsor" parentSchemaName="adx_website" parentDisplayName="Website" solution="MicrosoftPortalDependencies (9.2.10.0)" />
+        <Dependent key="30" type="10" schemaName="adx_website_sponsor" displayName="adx_website_sponsor" parentSchemaName="adx_website" parentDisplayName="Website" />
+      </MissingDependency>
+      <MissingDependency>
+        <Required key="31" type="10" schemaName="adx_webrole_contact" displayName="adx_webrole_contact" parentSchemaName="adx_webrole" parentDisplayName="Web Role" solution="MicrosoftPortalDependencies (9.2.10.0)" />
+        <Dependent key="31" type="10" schemaName="adx_webrole_contact" displayName="adx_webrole_contact" parentSchemaName="adx_webrole" parentDisplayName="Web Role" />
+      </MissingDependency>
+      <MissingDependency>
+        <Required key="5" type="1" schemaName="adx_invitation" displayName="Invitation" solution="MicrosoftPortalBase (9.2.2006.10)" />
+        <Dependent key="32" type="29" displayName="create and send invitation to new portal user" id="{e39322ea-3b1f-eb11-a813-000d3ab7cb08}" />
+      </MissingDependency>
+      <MissingDependency>
+        <Required key="33" type="1" schemaName="adx_website" displayName="Website" solution="MicrosoftPortalDependencies (9.2.10.0)" />
+        <Dependent key="32" type="29" displayName="create and send invitation to new portal user" id="{e39322ea-3b1f-eb11-a813-000d3ab7cb08}" />
+      </MissingDependency>
+      <MissingDependency>
+        <Required key="13" type="1" schemaName="cr36b_specialitate" displayName="Specialitāte" solution="Active" />
+        <Dependent key="34" type="29" displayName="savienot specialitati ar biznesa acc" id="{9e1e8215-74fe-ea11-a813-000d3ab8cd41}" />
+      </MissingDependency>
+      <MissingDependency>
+        <Required key="35" type="1" schemaName="adx_webrole" displayName="Web Role" solution="MicrosoftPortalDependencies (9.2.10.0)" />
+        <Dependent key="36" type="29" displayName="kad piešķir lomas uznemuma pārvaldnieku lietotajiem" id="{c3c1c600-132f-eb11-a813-000d3ab7cb08}" />
+      </MissingDependency>
+      <MissingDependency>
+        <Required key="37" type="connectionreference" displayName="hd_sharedcommondataserviceforapps_c1dab" solution="Active" id.connectionreferencelogicalname="hd_sharedcommondataserviceforapps_c1dab" />
+        <Dependent key="36" type="29" displayName="kad piešķir lomas uznemuma pārvaldnieku lietotajiem" id="{c3c1c600-132f-eb11-a813-000d3ab7cb08}" />
+      </MissingDependency>
+      <MissingDependency>
+        <Required key="35" type="1" schemaName="adx_webrole" displayName="Web Role" solution="MicrosoftPortalDependencies (9.2.10.0)" />
+        <Dependent key="38" type="29" displayName="Kad izveido jaunu skolnieku" id="{351bca2c-ea0e-eb11-a813-000d3ab8cd41}" />
+      </MissingDependency>
+      <MissingDependency>
+        <Required key="37" type="connectionreference" displayName="hd_sharedcommondataserviceforapps_c1dab" solution="Active" id.connectionreferencelogicalname="hd_sharedcommondataserviceforapps_c1dab" />
+        <Dependent key="38" type="29" displayName="Kad izveido jaunu skolnieku" id="{351bca2c-ea0e-eb11-a813-000d3ab8cd41}" />
+      </MissingDependency>
+      <MissingDependency>
+        <Required key="35" type="1" schemaName="adx_webrole" displayName="Web Role" solution="MicrosoftPortalDependencies (9.2.10.0)" />
+        <Dependent key="39" type="29" displayName="When Company Applied" id="{b0d07371-72f6-ea11-a815-000d3ab8cd41}" />
+      </MissingDependency>
+      <MissingDependency>
+        <Required key="40" type="connectionreference" displayName="hd_sharedcommondataserviceforapps_5b78a" solution="Active" id.connectionreferencelogicalname="hd_sharedcommondataserviceforapps_5b78a" />
+        <Dependent key="39" type="29" displayName="When Company Applied" id="{b0d07371-72f6-ea11-a815-000d3ab8cd41}" />
+      </MissingDependency>
+      <MissingDependency>
+        <Required key="37" type="connectionreference" displayName="hd_sharedcommondataserviceforapps_c1dab" solution="Active" id.connectionreferencelogicalname="hd_sharedcommondataserviceforapps_c1dab" />
+        <Dependent key="39" type="29" displayName="When Company Applied" id="{b0d07371-72f6-ea11-a815-000d3ab8cd41}" />
+      </MissingDependency>
+      <MissingDependency>
+        <Required key="41" type="connectionreference" displayName="new_sharedoffice365_09ffd" solution="Active" id.connectionreferencelogicalname="new_sharedoffice365_09ffd" />
+        <Dependent key="39" type="29" displayName="When Company Applied" id="{b0d07371-72f6-ea11-a815-000d3ab8cd41}" />
+      </MissingDependency>
+      <MissingDependency>
+        <Required key="42" type="connectionreference" displayName="hd_sharedsendmail_7ff10" solution="Active" id.connectionreferencelogicalname="hd_sharedsendmail_7ff10" />
+        <Dependent key="39" type="29" displayName="When Company Applied" id="{b0d07371-72f6-ea11-a815-000d3ab8cd41}" />
+      </MissingDependency>
+      <MissingDependency>
+        <Required key="35" type="1" schemaName="adx_webrole" displayName="Web Role" solution="MicrosoftPortalDependencies (9.2.10.0)" />
+        <Dependent key="43" type="29" displayName="When School Applied" id="{afd07371-72f6-ea11-a815-000d3ab8cd41}" />
+      </MissingDependency>
+      <MissingDependency>
+        <Required key="40" type="connectionreference" displayName="hd_sharedcommondataserviceforapps_5b78a" solution="Active" id.connectionreferencelogicalname="hd_sharedcommondataserviceforapps_5b78a" />
+        <Dependent key="43" type="29" displayName="When School Applied" id="{afd07371-72f6-ea11-a815-000d3ab8cd41}" />
+      </MissingDependency>
+      <MissingDependency>
+        <Required key="37" type="connectionreference" displayName="hd_sharedcommondataserviceforapps_c1dab" solution="Active" id.connectionreferencelogicalname="hd_sharedcommondataserviceforapps_c1dab" />
+        <Dependent key="43" type="29" displayName="When School Applied" id="{afd07371-72f6-ea11-a815-000d3ab8cd41}" />
+      </MissingDependency>
+      <MissingDependency>
+        <Required key="41" type="connectionreference" displayName="new_sharedoffice365_09ffd" solution="Active" id.connectionreferencelogicalname="new_sharedoffice365_09ffd" />
+        <Dependent key="43" type="29" displayName="When School Applied" id="{afd07371-72f6-ea11-a815-000d3ab8cd41}" />
+      </MissingDependency>
+      <MissingDependency>
+        <Required key="42" type="connectionreference" displayName="hd_sharedsendmail_7ff10" solution="Active" id.connectionreferencelogicalname="hd_sharedsendmail_7ff10" />
+        <Dependent key="43" type="29" displayName="When School Applied" id="{afd07371-72f6-ea11-a815-000d3ab8cd41}" />
+      </MissingDependency>
+      <MissingDependency>
+        <Required key="35" type="1" schemaName="adx_webrole" displayName="Web Role" solution="MicrosoftPortalDependencies (9.2.10.0)" />
+        <Dependent key="44" type="29" displayName="kad piešķir lietotajam lomas" id="{1f9a68f2-372e-eb11-a813-002248993dcd}" />
+      </MissingDependency>
+      <MissingDependency>
+        <Required key="35" type="1" schemaName="adx_webrole" displayName="Web Role" solution="MicrosoftPortalDependencies (9.2.10.0)" />
+        <Dependent key="45" type="29" displayName="Kad jauns skolas prakses vadītājas izveidots" id="{ac5961cc-e70e-eb11-a813-000d3ab8cd41}" />
+      </MissingDependency>
+      <MissingDependency>
+        <Required key="37" type="connectionreference" displayName="hd_sharedcommondataserviceforapps_c1dab" solution="Active" id.connectionreferencelogicalname="hd_sharedcommondataserviceforapps_c1dab" />
+        <Dependent key="45" type="29" displayName="Kad jauns skolas prakses vadītājas izveidots" id="{ac5961cc-e70e-eb11-a813-000d3ab8cd41}" />
+      </MissingDependency>
+      <MissingDependency>
+        <Required key="35" type="1" schemaName="adx_webrole" displayName="Web Role" solution="MicrosoftPortalDependencies (9.2.10.0)" />
+        <Dependent key="46" type="29" displayName="kad augšup ielāde exceli ar skolas informāciju" id="{b1d07371-72f6-ea11-a815-000d3ab8cd41}" />
+      </MissingDependency>
+      <MissingDependency>
+        <Required key="47" type="connectionreference" displayName="hd_sharedonedriveforbusiness_20308" solution="Active" id.connectionreferencelogicalname="hd_sharedonedriveforbusiness_20308" />
+        <Dependent key="46" type="29" displayName="kad augšup ielāde exceli ar skolas informāciju" id="{b1d07371-72f6-ea11-a815-000d3ab8cd41}" />
+      </MissingDependency>
+      <MissingDependency>
+        <Required key="37" type="connectionreference" displayName="hd_sharedcommondataserviceforapps_c1dab" solution="Active" id.connectionreferencelogicalname="hd_sharedcommondataserviceforapps_c1dab" />
+        <Dependent key="46" type="29" displayName="kad augšup ielāde exceli ar skolas informāciju" id="{b1d07371-72f6-ea11-a815-000d3ab8cd41}" />
+      </MissingDependency>
+      <MissingDependency>
+        <Required key="48" type="connectionreference" displayName="hd_sharedexcelonlinebusiness_e89da" solution="Active" id.connectionreferencelogicalname="hd_sharedexcelonlinebusiness_e89da" />
+        <Dependent key="46" type="29" displayName="kad augšup ielāde exceli ar skolas informāciju" id="{b1d07371-72f6-ea11-a815-000d3ab8cd41}" />
+      </MissingDependency>
+      <MissingDependency>
+        <Required key="35" type="1" schemaName="adx_webrole" displayName="Web Role" solution="MicrosoftPortalDependencies (9.2.10.0)" />
+        <Dependent key="49" type="29" displayName="kad pieskir super skolotaja lomu" id="{3f1c935a-2b20-eb11-a813-002248993dcd}" />
+      </MissingDependency>
+      <MissingDependency>
+        <Required key="37" type="connectionreference" displayName="hd_sharedcommondataserviceforapps_c1dab" solution="Active" id.connectionreferencelogicalname="hd_sharedcommondataserviceforapps_c1dab" />
+        <Dependent key="49" type="29" displayName="kad pieskir super skolotaja lomu" id="{3f1c935a-2b20-eb11-a813-002248993dcd}" />
+      </MissingDependency>
+      <MissingDependency>
+        <Required key="35" type="1" schemaName="adx_webrole" displayName="Web Role" solution="MicrosoftPortalDependencies (9.2.10.0)" />
+        <Dependent key="50" type="29" displayName="Kad uznemuma prakses vaditajs izveidots" id="{9d1e8215-74fe-ea11-a813-000d3ab8cd41}" />
+      </MissingDependency>
+      <MissingDependency>
+        <Required key="37" type="connectionreference" displayName="hd_sharedcommondataserviceforapps_c1dab" solution="Active" id.connectionreferencelogicalname="hd_sharedcommondataserviceforapps_c1dab" />
+        <Dependent key="50" type="29" displayName="Kad uznemuma prakses vaditajs izveidots" id="{9d1e8215-74fe-ea11-a813-000d3ab8cd41}" />
+      </MissingDependency>
+      <MissingDependency>
+        <Required key="51" type="29" displayName="Change Password for Portals Contact" solution="MicrosoftIdentity (9.2.2006.0)" id="{c2857b63-8fa7-473d-8e2f-112c232cebd8}" />
+        <Dependent key="51" type="29" displayName="Change Password for Portals Contact" id="{c2857b63-8fa7-473d-8e2f-112c232cebd8}" />
+      </MissingDependency>
+      <MissingDependency>
+        <Required key="52" type="29" displayName="Change Password" solution="MicrosoftIdentitySystemWorkflows (9.2.10.0)" id="{cc28f20d-009a-437e-9b4d-ff48eb3c8a8a}" />
+        <Dependent key="52" type="29" displayName="Change Password" id="{cc28f20d-009a-437e-9b4d-ff48eb3c8a8a}" />
+      </MissingDependency>
+      <MissingDependency>
+        <Required key="47" type="connectionreference" displayName="hd_sharedonedriveforbusiness_20308" solution="Active" id.connectionreferencelogicalname="hd_sharedonedriveforbusiness_20308" />
+        <Dependent key="53" type="29" displayName="kad prakses notikums izveidots" id="{a01e8215-74fe-ea11-a813-000d3ab8cd41}" />
+      </MissingDependency>
+      <MissingDependency>
+        <Required key="37" type="connectionreference" displayName="hd_sharedcommondataserviceforapps_c1dab" solution="Active" id.connectionreferencelogicalname="hd_sharedcommondataserviceforapps_c1dab" />
+        <Dependent key="53" type="29" displayName="kad prakses notikums izveidots" id="{a01e8215-74fe-ea11-a813-000d3ab8cd41}" />
+      </MissingDependency>
+      <MissingDependency>
+        <Required key="48" type="connectionreference" displayName="hd_sharedexcelonlinebusiness_e89da" solution="Active" id.connectionreferencelogicalname="hd_sharedexcelonlinebusiness_e89da" />
+        <Dependent key="53" type="29" displayName="kad prakses notikums izveidots" id="{a01e8215-74fe-ea11-a813-000d3ab8cd41}" />
+      </MissingDependency>
+      <MissingDependency>
+        <Required key="54" type="connectionreference" displayName="new_sharedcommondataserviceforapps_ead29" solution="Active" id.connectionreferencelogicalname="new_sharedcommondataserviceforapps_ead29" />
+        <Dependent key="55" type="29" displayName="savieno praktikantus ar prakses notikumu" id="{43cc342b-6a01-eb11-a813-000d3ab8cd41}" />
+      </MissingDependency>
+      <MissingDependency>
+        <Required key="40" type="connectionreference" displayName="hd_sharedcommondataserviceforapps_5b78a" solution="Active" id.connectionreferencelogicalname="hd_sharedcommondataserviceforapps_5b78a" />
+        <Dependent key="55" type="29" displayName="savieno praktikantus ar prakses notikumu" id="{43cc342b-6a01-eb11-a813-000d3ab8cd41}" />
+      </MissingDependency>
+      <MissingDependency>
+        <Required key="37" type="connectionreference" displayName="hd_sharedcommondataserviceforapps_c1dab" solution="Active" id.connectionreferencelogicalname="hd_sharedcommondataserviceforapps_c1dab" />
+        <Dependent key="55" type="29" displayName="savieno praktikantus ar prakses notikumu" id="{43cc342b-6a01-eb11-a813-000d3ab8cd41}" />
+      </MissingDependency>
+      <MissingDependency>
+        <Required key="41" type="connectionreference" displayName="new_sharedoffice365_09ffd" solution="Active" id.connectionreferencelogicalname="new_sharedoffice365_09ffd" />
+        <Dependent key="55" type="29" displayName="savieno praktikantus ar prakses notikumu" id="{43cc342b-6a01-eb11-a813-000d3ab8cd41}" />
+      </MissingDependency>
+      <MissingDependency>
+        <Required key="54" type="connectionreference" displayName="new_sharedcommondataserviceforapps_ead29" solution="Active" id.connectionreferencelogicalname="new_sharedcommondataserviceforapps_ead29" />
+        <Dependent key="56" type="29" displayName="when skolnieka prakse Created" id="{9b1e8215-74fe-ea11-a813-000d3ab8cd41}" />
+      </MissingDependency>
+      <MissingDependency>
+        <Required key="54" type="connectionreference" displayName="new_sharedcommondataserviceforapps_ead29" solution="Active" id.connectionreferencelogicalname="new_sharedcommondataserviceforapps_ead29" />
+        <Dependent key="57" type="29" displayName="When praksu vietu skaits has reached zero" id="{98eb1a71-1203-eb11-a813-000d3ab8cd41}" />
+      </MissingDependency>
+      <MissingDependency>
+        <Required key="54" type="connectionreference" displayName="new_sharedcommondataserviceforapps_ead29" solution="Active" id.connectionreferencelogicalname="new_sharedcommondataserviceforapps_ead29" />
+        <Dependent key="58" type="29" displayName="create activity feed for prakses atcelšanas" id="{943419ba-0419-eb11-a813-000d3ab8cd41}" />
+      </MissingDependency>
+      <MissingDependency>
+        <Required key="54" type="connectionreference" displayName="new_sharedcommondataserviceforapps_ead29" solution="Active" id.connectionreferencelogicalname="new_sharedcommondataserviceforapps_ead29" />
+        <Dependent key="59" type="29" displayName="When skolotaja pieteikums created" id="{ee3dc940-230a-eb11-a813-000d3ab8cd41}" />
+      </MissingDependency>
+      <MissingDependency>
+        <Required key="40" type="connectionreference" displayName="hd_sharedcommondataserviceforapps_5b78a" solution="Active" id.connectionreferencelogicalname="hd_sharedcommondataserviceforapps_5b78a" />
+        <Dependent key="59" type="29" displayName="When skolotaja pieteikums created" id="{ee3dc940-230a-eb11-a813-000d3ab8cd41}" />
+      </MissingDependency>
+      <MissingDependency>
+        <Required key="41" type="connectionreference" displayName="new_sharedoffice365_09ffd" solution="Active" id.connectionreferencelogicalname="new_sharedoffice365_09ffd" />
+        <Dependent key="59" type="29" displayName="When skolotaja pieteikums created" id="{ee3dc940-230a-eb11-a813-000d3ab8cd41}" />
+      </MissingDependency>
+      <MissingDependency>
+        <Required key="60" type="connectionreference" displayName="hd_sharedoffice365_b3487" solution="Active" id.connectionreferencelogicalname="hd_sharedoffice365_b3487" />
+        <Dependent key="59" type="29" displayName="When skolotaja pieteikums created" id="{ee3dc940-230a-eb11-a813-000d3ab8cd41}" />
+      </MissingDependency>
+      <MissingDependency>
+        <Required key="54" type="connectionreference" displayName="new_sharedcommondataserviceforapps_ead29" solution="Active" id.connectionreferencelogicalname="new_sharedcommondataserviceforapps_ead29" />
+        <Dependent key="61" type="29" displayName="delete activity records weekly" id="{c432a970-1819-eb11-a813-000d3ab8cd41}" />
+      </MissingDependency>
+      <MissingDependency>
+        <Required key="40" type="connectionreference" displayName="hd_sharedcommondataserviceforapps_5b78a" solution="Active" id.connectionreferencelogicalname="hd_sharedcommondataserviceforapps_5b78a" />
+        <Dependent key="62" type="29" displayName="Copy of - kad ierakstīts dienasgrāmatā" id="{9f1e8215-74fe-ea11-a813-000d3ab8cd41}" />
+      </MissingDependency>
+      <MissingDependency>
+        <Required key="40" type="connectionreference" displayName="hd_sharedcommondataserviceforapps_5b78a" solution="Active" id.connectionreferencelogicalname="hd_sharedcommondataserviceforapps_5b78a" />
+        <Dependent key="63" type="29" displayName="when uzn prakses vaditajs deav or updated" id="{93162448-8534-eb11-a813-002248993dcd}" />
+      </MissingDependency>
+      <MissingDependency>
+        <Required key="40" type="connectionreference" displayName="hd_sharedcommondataserviceforapps_5b78a" solution="Active" id.connectionreferencelogicalname="hd_sharedcommondataserviceforapps_5b78a" />
+        <Dependent key="64" type="29" displayName="when prakses notikums deactivated" id="{67e0da2a-bd30-eb11-a813-002248993dcd}" />
+      </MissingDependency>
+      <MissingDependency>
+        <Required key="37" type="connectionreference" displayName="hd_sharedcommondataserviceforapps_c1dab" solution="Active" id.connectionreferencelogicalname="hd_sharedcommondataserviceforapps_c1dab" />
+        <Dependent key="65" type="29" displayName="Http -&gt; get contact which izveidoja pieteikums,update contact" id="{d162384e-9922-eb11-a813-000d3ab7cb08}" />
+      </MissingDependency>
+      <MissingDependency>
+        <Required key="37" type="connectionreference" displayName="hd_sharedcommondataserviceforapps_c1dab" solution="Active" id.connectionreferencelogicalname="hd_sharedcommondataserviceforapps_c1dab" />
+        <Dependent key="66" type="29" displayName="every month check for  old skolnieka prakses and prakses notikumi" id="{fc497058-c203-eb11-a813-000d3ab8cd41}" />
+      </MissingDependency>
+      <MissingDependency>
+        <Required key="37" type="connectionreference" displayName="hd_sharedcommondataserviceforapps_c1dab" solution="Active" id.connectionreferencelogicalname="hd_sharedcommondataserviceforapps_c1dab" />
+        <Dependent key="67" type="29" displayName="kad izveido vietu skaitu" id="{9a1e8215-74fe-ea11-a813-000d3ab8cd41}" />
+      </MissingDependency>
+      <MissingDependency>
+        <Required key="37" type="connectionreference" displayName="hd_sharedcommondataserviceforapps_c1dab" solution="Active" id.connectionreferencelogicalname="hd_sharedcommondataserviceforapps_c1dab" />
+        <Dependent key="68" type="29" displayName="when new praktikanta prakses pieteikums created" id="{d01f453b-4e23-eb11-a813-002248993dcd}" />
+      </MissingDependency>
+      <MissingDependency>
+        <Required key="37" type="connectionreference" displayName="hd_sharedcommondataserviceforapps_c1dab" solution="Active" id.connectionreferencelogicalname="hd_sharedcommondataserviceforapps_c1dab" />
+        <Dependent key="69" type="29" displayName="when skolnieka prakse updated (piekrist/nepiekrist)" id="{193b7078-0603-eb11-a813-000d3ab8cd41}" />
+      </MissingDependency>
+      <MissingDependency>
+        <Required key="41" type="connectionreference" displayName="new_sharedoffice365_09ffd" solution="Active" id.connectionreferencelogicalname="new_sharedoffice365_09ffd" />
+        <Dependent key="69" type="29" displayName="when skolnieka prakse updated (piekrist/nepiekrist)" id="{193b7078-0603-eb11-a813-000d3ab8cd41}" />
+      </MissingDependency>
+      <MissingDependency>
+        <Required key="37" type="connectionreference" displayName="hd_sharedcommondataserviceforapps_c1dab" solution="Active" id.connectionreferencelogicalname="hd_sharedcommondataserviceforapps_c1dab" />
+        <Dependent key="70" type="29" displayName="Kad jauna grupa izveidota" id="{4be608d2-eb0e-eb11-a813-000d3ab8cd41}" />
+      </MissingDependency>
+      <MissingDependency>
+        <Required key="35" type="1" schemaName="adx_webrole" displayName="Web Role" solution="MicrosoftPortalDependencies (9.2.10.0)" />
+        <Dependent key="71" type="26" schemaName="skolasPraksesVaditaji" displayName="skolasPraksesVaditaji" parentSchemaName="contact" parentDisplayName="Contact" id="{7363db82-2720-eb11-a813-000d3ab7cb08}" />
+      </MissingDependency>
+      <MissingDependency>
+        <Required key="72" type="2" schemaName="adx_name" displayName="Name" parentSchemaName="adx_webrole" parentDisplayName="Web Role" solution="MicrosoftPortalDependencies (9.2.10.0)" />
+        <Dependent key="71" type="26" schemaName="skolasPraksesVaditaji" displayName="skolasPraksesVaditaji" parentSchemaName="contact" parentDisplayName="Contact" id="{7363db82-2720-eb11-a813-000d3ab7cb08}" />
+      </MissingDependency>
+      <MissingDependency>
+        <Required key="73" type="2" schemaName="adx_webroleid" displayName="Web Role" parentSchemaName="adx_webrole" parentDisplayName="Web Role" solution="MicrosoftPortalDependencies (9.2.10.0)" />
+        <Dependent key="71" type="26" schemaName="skolasPraksesVaditaji" displayName="skolasPraksesVaditaji" parentSchemaName="contact" parentDisplayName="Contact" id="{7363db82-2720-eb11-a813-000d3ab7cb08}" />
+      </MissingDependency>
+      <MissingDependency>
+        <Required key="74" type="2" schemaName="msa_managingpartnerid" displayName="Managing Partner" parentSchemaName="contact" parentDisplayName="Contact" solution="MicrosoftPortalDependencies (9.2.10.0)" />
+        <Dependent key="75" type="2" schemaName="parentcustomerid" displayName="Company Name" parentSchemaName="contact" parentDisplayName="Contact" />
+      </MissingDependency>
+      <MissingDependency>
+        <Required key="76" type="2" schemaName="adx_identity_username" displayName="User Name" parentSchemaName="contact" parentDisplayName="Contact" solution="MicrosoftIdentity (9.2.2006.0)" />
+        <Dependent key="76" type="2" schemaName="adx_identity_username" displayName="User Name" parentSchemaName="contact" parentDisplayName="Contact" />
+      </MissingDependency>
+      <MissingDependency>
+        <Required key="77" type="2" schemaName="adx_identity_newpassword" displayName="New Password Input" parentSchemaName="contact" parentDisplayName="Contact" solution="MicrosoftIdentity (9.2.2006.0)" />
+        <Dependent key="77" type="2" schemaName="adx_identity_newpassword" displayName="New Password Input" parentSchemaName="contact" parentDisplayName="Contact" />
+      </MissingDependency>
+      <MissingDependency>
+        <Required key="17" type="10" schemaName="adx_portallanguage_contact" displayName="adx_portallanguage_contact" parentSchemaName="adx_portallanguage" parentDisplayName="Portal Language" solution="MicrosoftPortalBase (9.2.2006.10)" />
+        <Dependent key="78" type="2" schemaName="adx_preferredlanguageidname" parentSchemaName="contact" parentDisplayName="Contact" />
+      </MissingDependency>
+      <MissingDependency>
+        <Required key="25" type="10" schemaName="msa_account_managingpartner" displayName="msa_account_managingpartner" parentSchemaName="account" parentDisplayName="Account" solution="MicrosoftPortalDependencies (9.2.10.0)" />
+        <Dependent key="79" type="2" schemaName="msa_managingpartneridyominame" parentSchemaName="account" parentDisplayName="Account" />
+      </MissingDependency>
+      <MissingDependency>
+        <Required key="28" type="10" schemaName="msa_contact_managingpartner" displayName="msa_contact_managingpartner" parentSchemaName="account" parentDisplayName="Account" solution="MicrosoftPortalDependencies (9.2.10.0)" />
+        <Dependent key="80" type="2" schemaName="msa_managingpartneridname" parentSchemaName="contact" parentDisplayName="Contact" />
+      </MissingDependency>
+      <MissingDependency>
+        <Required key="28" type="10" schemaName="msa_contact_managingpartner" displayName="msa_contact_managingpartner" parentSchemaName="account" parentDisplayName="Account" solution="MicrosoftPortalDependencies (9.2.10.0)" />
+        <Dependent key="81" type="2" schemaName="msa_managingpartneridyominame" parentSchemaName="contact" parentDisplayName="Contact" />
+      </MissingDependency>
+      <MissingDependency>
+        <Required key="25" type="10" schemaName="msa_account_managingpartner" displayName="msa_account_managingpartner" parentSchemaName="account" parentDisplayName="Account" solution="MicrosoftPortalDependencies (9.2.10.0)" />
+        <Dependent key="82" type="2" schemaName="msa_managingpartneridname" parentSchemaName="account" parentDisplayName="Account" />
+      </MissingDependency>
+      <MissingDependency>
+        <Required key="83" type="26" schemaName="All Accounts" displayName="All Accounts" parentSchemaName="account" parentDisplayName="Account" solution="msdynce_AppCommon (9.0.4.0066)" id="{65ffaf9a-e8c5-432d-860b-32f841b00d87}" />
+        <Dependent key="84" type="60" displayName="Redzēt visas skolas skolnieka prakses" parentDisplayName="Skolnieka Prakse" id="{c724aa0e-66fe-ea11-a813-000d3ab8cd41}" />
+      </MissingDependency>
+      <MissingDependency>
+        <Required key="83" type="26" schemaName="All Accounts" displayName="All Accounts" parentSchemaName="account" parentDisplayName="Account" solution="msdynce_AppCommon (9.0.4.0066)" id="{65ffaf9a-e8c5-432d-860b-32f841b00d87}" />
+        <Dependent key="85" type="60" displayName="Information" parentDisplayName="Skolnieka Prakse" id="{a861618b-cff5-44a3-871e-06640e741bd4}" />
+      </MissingDependency>
+      <MissingDependency>
+        <Required key="86" type="26" schemaName="All Contacts" displayName="All Contacts" parentSchemaName="contact" parentDisplayName="Contact" solution="msdynce_AppCommon (9.0.4.0066)" id="{0d5d377b-5e7c-47b5-bab1-a5cb8b4ac105}" />
+        <Dependent key="87" type="60" displayName="Skolnieka prakses sasaiste ar uznemumu un prakses vaditaju skola" parentDisplayName="Skolnieka Prakse" id="{0ef946a0-7a01-eb11-a813-000d3ab8cd41}" />
+      </MissingDependency>
+      <MissingDependency>
+        <Required key="83" type="26" schemaName="All Accounts" displayName="All Accounts" parentSchemaName="account" parentDisplayName="Account" solution="msdynce_AppCommon (9.0.4.0066)" id="{65ffaf9a-e8c5-432d-860b-32f841b00d87}" />
+        <Dependent key="88" type="60" displayName="Information" parentDisplayName="Prakses Vadītāji skolā" id="{52db8b90-76ad-43a8-a111-dfab56edaac3}" />
+      </MissingDependency>
+      <MissingDependency>
+        <Required key="89" type="60" displayName="Profile Web Form" parentDisplayName="Contact" solution="MicrosoftPortalBase (9.2.2006.10)" id="{0bd832d5-9d6a-456d-bdc1-21129e82cc0f}" />
+        <Dependent key="89" type="60" displayName="Profile Web Form" parentDisplayName="Contact" id="{0bd832d5-9d6a-456d-bdc1-21129e82cc0f}" />
+      </MissingDependency>
+      <MissingDependency>
+        <Required key="90" type="61" schemaName="AppCommon/Contact/Contact_main_system_library.js" displayName="AppCommon/Contact/Contact_main_system_library.js" solution="msdynce_AppCommon (9.0.4.0066)" />
+        <Dependent key="89" type="60" displayName="Profile Web Form" parentDisplayName="Contact" id="{0bd832d5-9d6a-456d-bdc1-21129e82cc0f}" />
+      </MissingDependency>
+      <MissingDependency>
+        <Required key="91" type="60" displayName="Information" parentDisplayName="Account" solution="msdynce_AppCommon (9.0.4.0066)" id="{b053a39a-041a-4356-acef-ddf00182762b}" />
+        <Dependent key="91" type="60" displayName="Information" parentDisplayName="Account" id="{b053a39a-041a-4356-acef-ddf00182762b}" />
+      </MissingDependency>
+      <MissingDependency>
+        <Required key="92" type="60" displayName="Information" parentDisplayName="Contact" solution="msdynce_AppCommon (9.0.4.0066)" id="{894cc46a-b0cb-4ab0-8bf6-200544e46a2d}" />
+        <Dependent key="92" type="60" displayName="Information" parentDisplayName="Contact" id="{894cc46a-b0cb-4ab0-8bf6-200544e46a2d}" />
+      </MissingDependency>
+      <MissingDependency>
+        <Required key="90" type="61" schemaName="AppCommon/Contact/Contact_main_system_library.js" displayName="AppCommon/Contact/Contact_main_system_library.js" solution="msdynce_AppCommon (9.0.4.0066)" />
+        <Dependent key="92" type="60" displayName="Information" parentDisplayName="Contact" id="{894cc46a-b0cb-4ab0-8bf6-200544e46a2d}" />
+      </MissingDependency>
+      <MissingDependency>
+        <Required key="90" type="61" schemaName="AppCommon/Contact/Contact_main_system_library.js" displayName="AppCommon/Contact/Contact_main_system_library.js" solution="msdynce_AppCommon (9.0.4.0066)" />
+        <Dependent key="93" type="60" displayName="create contact admin lomas" parentDisplayName="Contact" id="{776b5341-412e-eb11-a813-000d3ab7cb08}" />
+      </MissingDependency>
+      <MissingDependency>
+        <Required key="90" type="61" schemaName="AppCommon/Contact/Contact_main_system_library.js" displayName="AppCommon/Contact/Contact_main_system_library.js" solution="msdynce_AppCommon (9.0.4.0066)" />
+        <Dependent key="94" type="60" displayName=" main form" parentDisplayName="Contact" id="{17be70b4-c1f1-ea11-a815-000d3ab8cd41}" />
+      </MissingDependency>
+    </MissingDependencies>
+  </SolutionManifest>
+</ImportExportXml>
